@@ -1,24 +1,24 @@
 # my-todo
+Это небольшое SPA с todo-list написано с помощью технологий VueJS 3, Bootstrap 5 и Pinia.
 
-## Project setup
+## Превью
+![my-todo-list](https://github.com/HelLuna/Your-ToDo/blob/main/img/preview.png)
+
+## Установка проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция и запуск
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Как использовать
+> Вы можете ввести любое имя пользователя, нажав на иконку каранадаша в самом верху. По завершению ввода необходимо нажать Enter.
 
-### Lints and fixes files
-```
-npm run lint
-```
+> При нажатии на кнопку "Новая задача" можно ввести название и описание задачи. Чтобы она добавилась в список, требуется ввести хотя бы название, иначе при попытке сохранения появится предупреждающее окно, созданное с помощью vue-sweetalert2.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> Каждую задачу можно пометить как сделанную, полностью отредактировать её содержание или удалить.
+
+> Задачи можно отфильтровать с помощью выпадающего меню по принципам "Все задачи", "В процессе" и "Завершённые". 
