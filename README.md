@@ -1,5 +1,5 @@
 # my-todo
-Это небольшое SPA с todo-list написано с помощью технологий VueJS 3, Bootstrap 5 и Pinia. Также используются HTML, CSS и JS.
+Это небольшое SPA с todo-list написано с помощью технологий VueJS 3, Bootstrap 5 и Pinia. Также используются HTML, CSS и JS. Полностью адаптивно и устойчиво к переполнению.
 
 ## Превью
 ![my-todo-list](https://github.com/HelLuna/Your-ToDo/blob/main/img/preview.png)
